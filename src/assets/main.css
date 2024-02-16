@@ -1,0 +1,18 @@
+body, *, *::after, *::before{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  box-sizing: border-box;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+}
+body {
+  background-color: #e1f2f2;
+  color: #86b9b0;
+  overflow-x: hidden;
+}
+html{
+  scroll-behavior:smooth;
+  overflow: visible;
+}
